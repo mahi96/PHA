@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PersonalHealthAssistant</string>
+    <string name="medicines">medicines</string>
+    <string name="symp">Enter Symptom</string>
+    <string name="getmed">Get Medicines</string>
+    <string name="title_activity_next">Medicines</string>
+    <string name="btn1_text">Get Prescription</string>
+    <string name="btn2_text">Doctor Tips</string>
+    <string name="btn3_text">Search Nearby</string>
+    <string name="btn4_text">Set Reminders</string>
+</resources>
